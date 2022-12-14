@@ -1,7 +1,3 @@
 Hi, I’m Pegadari
 
-Here are some projects I'm working on:
-  - My Python toolbox
-  - A file compression experiment
-  - A Pico Ducky (Raspberry Pi Pico Rubber Ducky)
-  - Twilight Imperium 4th Edition Simulator
+I'm currently working on a few projects with the goal of at least one commit per day. See my pinned projects for the ones I'm working on the most.
